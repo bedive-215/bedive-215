@@ -1,1 +1,12 @@
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/19048.jpg" width="100%" />
+<p align="center">
+<pre>
+      .---.
+     /     \
+     \.@-@./
+     /`\_/`\
+    //  _  \\
+    \ \     )\_
+   /`\_`>  <_/ \
+   \__/'---'\__/
+</pre>
+</p>
